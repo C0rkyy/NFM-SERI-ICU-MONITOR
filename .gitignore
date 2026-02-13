@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Local outputs and caches
+outputs/
+*.log
+
+# Large/raw datasets (keep local, do not push)
+data/external/
+eeg-motor-movementimagery-dataset-1.0.0/
+*.rar
+*.zip
+*.7z
+
+# EEG raw binaries
+*.eeg
+*.edf
+*.fdt
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
