@@ -8,14 +8,6 @@ Computes a **Stimulus-Evoked Response Index (SERI, 0–100)** from stimulus-lock
 
 ---
 
-## Recommended GitHub Repository
-
-- **Repository name:** `nfm-seri-icu-monitor`
-- **GitHub short description:** `Stimulus-evoked EEG response monitoring (SERI) for ICU decision-support using LIS BrainVision data. Research PoC, not a diagnosis tool.`
-- **Suggested GitHub topics:** `eeg`, `brainvision`, `icu`, `neuro`, `streamlit`, `machine-learning`, `mne-python`, `clinical-ai`, `decision-support`
-
----
-
 ## Overview
 
 NFM processes BrainVision-format EEG data (LIS Zenodo dataset) and/or PhysioNet EDF data through a complete neuroscientific pipeline:
