@@ -34,3 +34,6 @@ eeg-motor-movementimagery-dataset-1.0.0/
 Thumbs.db
 .vscode/
 .idea/
+
+# Local prompt scratch files
+CODEX_MEGA_PROMPT.md
